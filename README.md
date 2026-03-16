@@ -49,7 +49,7 @@ Currently a **Data Analytics Specialist at Group O**, where I've delivered:
 | [📊 R Data Mining](https://github.com/janmejoykar1807/R_Data_Mining_Projects) | R · R Markdown | Time series, text mining, SVM classification & insurance regression |
 | [🏭 Toxic Release Inventory](https://github.com/janmejoykar1807/Business-Process-Analytics-Project) | Python · Pandas | EPA environmental data analysis across industries and states |
 | [🗄️ SQL Project](https://github.com/janmejoykar1807/SQL_project) | SQL | Complex queries, joins, CTEs & window functions |
-| [🌐 Portfolio Website](https://portfolio-website-ashy-eight.vercel.app) | JavaScript · Vercel | Live personal portfolio site |
+| [🌐 Portfolio Website](https://janmejoykar-portfolio.vercel.app) | React · Vercel | Live personal portfolio site |
 
 ---
 
@@ -73,4 +73,4 @@ Currently a **Data Analytics Specialist at Group O**, where I've delivered:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Janmejoy%20Kar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/janmejoy-kar-849756196/)
 [![Email](https://img.shields.io/badge/Email-janmejoykar%40my.unt.edu-red?style=flat&logo=gmail)](mailto:janmejoykar@my.unt.edu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-green?style=flat&logo=vercel)](https://portfolio-website-ashy-eight.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-green?style=flat&logo=vercel)](https://janmejoykar-portfolio.vercel.app)
