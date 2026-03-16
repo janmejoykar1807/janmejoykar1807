@@ -1,45 +1,76 @@
 # Hi, I'm Janmejoy Kar 👋
 
-I'm a Data Scientist in training, building expertise in data analysis, machine learning, and software development using **Python**, **R**, and **SQL**. I work with real-world datasets — from Kaggle competitions to environmental and healthcare data — to sharpen my skills and develop end-to-end solutions.
+**Data Scientist & Data Engineer** based in Denton, Texas
+M.S. Business Analytics · University of North Texas · GPA 3.83
+
+---
+
+## 🧠 What I Do
+
+I build data pipelines, predictive models, and analytical systems that turn messy operational data into decisions people can act on. My work spans capacity forecasting, A/B experimentation, anomaly detection, and large-scale ETL — across cloud platforms like Microsoft Fabric, AWS, and Databricks.
+
+Currently a **Data Analytics Specialist at Group O**, where I've delivered:
+- 📈 **30% improvement** in forecast accuracy with PySpark-based predictive models
+- 💰 **$5M+ revenue impact** through A/B testing and propensity modeling
+- ⚡ **40% faster** report refresh times through optimized Fabric pipelines and SQL tuning
+- 🔍 **Anomaly detection** systems that reduced inventory fulfillment gaps by 20%
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=janmejoykar1807&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=janmejoykar1807&hide_border=true" width="48%" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janmejoykar1807&layout=compact&hide_border=true&langs_count=8" width="50%" alt="Top Languages"/>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+**Languages:** Python · R · SQL · PySpark · Scala
+**ML/Stats:** Scikit-Learn · TensorFlow · A/B Testing · Bayesian Inference · Forecasting · NLP
+**Cloud & Data:** Microsoft Fabric · Databricks · AWS (S3, EC2) · Hadoop · Hive
+**Visualization:** Power BI · Tableau · DAX · QlikView
+**Databases:** SQL Server · MySQL · MongoDB · NoSQL
 
 ---
 
 ## 📂 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Internship_Data_Science](https://github.com/janmejoykar1807/Internship_Data_Science) | ML algorithms: Linear/Logistic Regression, Decision Trees, Random Forest, KNN, KMeans, PCA, LDA, Face Recognition, COVID-19 visualization | Python |
-| [Python_Data_Mining_Projects](https://github.com/janmejoykar1807/Python_Data_Mining_Projects) | Data mining on Utilities, Airfares, Baseball, and SpamBase datasets | Python |
-| [R_Data_Mining_Projects](https://github.com/janmejoykar1807/R_Data_Mining_Projects) | R-based analysis on Amazon stock prices, insurance data, juice sales, and text analytics | R |
-| [HepatitisC_Project](https://github.com/janmejoykar1807/HepatitisC_Project) | Statistical hypothesis testing and logistic regression on a clinical blood donor dataset | Python & R |
-| [Business-Process-Analytics-Project](https://github.com/janmejoykar1807/Business-Process-Analytics-Project) | Toxic Release Inventory (EPA) analysis across U.S. facilities (2019–2021) | Python |
-| [KagglePracticeProject](https://github.com/janmejoykar1807/KagglePracticeProject) | EDA and modeling on home prices, wine reviews, and market data | Python |
-| [SQL_project](https://github.com/janmejoykar1807/SQL_project) | Relational database ER modeling using MySQL Workbench | SQL |
-| [Drone_Pythoncodesim2](https://github.com/janmejoykar1807/Drone_Pythoncodesim2) | Python-based drone flight simulation | Python |
-| [ApplicationPortal](https://github.com/janmejoykar1807/ApplicationPortal) | Flask web application — test portal | Python |
-| [portfolio-website](https://github.com/janmejoykar1807/portfolio-website) | Personal portfolio website built with React, deployed on Vercel | JavaScript / React |
+| Project | Tech | What It Does |
+|---------|------|--------------|
+| [🩺 Hepatitis C Prediction](https://github.com/janmejoykar1807/HepatitisC_Project) | Python · R · Scikit-Learn | Hypothesis testing, z-tests & logistic regression on clinical biomarker data |
+| [⛏️ Python Data Mining](https://github.com/janmejoykar1807/Python_Data_Mining_Projects) | Python · Scikit-Learn | Spam detection, airfare regression, salary prediction & k-means clustering |
+| [📊 R Data Mining](https://github.com/janmejoykar1807/R_Data_Mining_Projects) | R · R Markdown | Time series, text mining, SVM classification & insurance regression |
+| [🏭 Toxic Release Inventory](https://github.com/janmejoykar1807/Business-Process-Analytics-Project) | Python · Pandas | EPA environmental data analysis across industries and states |
+| [🗄️ SQL Project](https://github.com/janmejoykar1807/SQL_project) | SQL | Complex queries, joins, CTEs & window functions |
+| [🌐 Portfolio Website](https://portfolio-website-ashy-eight.vercel.app) | JavaScript · Vercel | Live personal portfolio site |
 
 ---
 
-## 📈 GitHub Stats
+## 📜 Certifications
 
-![Janmejoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=janmejoykar1807&show_icons=true&theme=default&hide_border=true)
+| Certification | Issuer | Date |
+|--------------|--------|------|
+| 🏅 Microsoft Certified: Power BI Data Analyst Associate | Microsoft | Jun 2025 |
+| 🏅 Microsoft Certified: Azure Data Scientist Associate | Microsoft | Aug 2024 |
+| 🏅 Microsoft Certified: Fabric Analytics Engineer Associate | Microsoft | Jul 2024 |
+| 🏅 Microsoft Certified: Azure Fundamentals | Microsoft | Oct 2023 |
+| 🏅 Microsoft Azure | Microsoft | Jul 2022 |
+| 🏅 Python Level 1 | Cambridge Certification Authority | Jul 2022 |
+| 🏅 AWS Cloud Practitioner | Amazon Web Services | Jul 2020 |
+| 🏅 Architecting on AWS (Associate) | Amazon Web Services | Jun 2020 |
+| 🏅 Business Analytics Graduate | IBM | Mar 2021 |
 
 ---
 
-## 📫 Connect with Me
+## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/janmejoy-kar-849756196)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:janmejoy1807@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-website-ashy-eight.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Janmejoy%20Kar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/janmejoy-kar-849756196/)
+[![Email](https://img.shields.io/badge/Email-janmejoykar%40my.unt.edu-red?style=flat&logo=gmail)](mailto:janmejoykar@my.unt.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-green?style=flat&logo=vercel)](https://portfolio-website-ashy-eight.vercel.app)
