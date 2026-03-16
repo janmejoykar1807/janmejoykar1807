@@ -9,7 +9,7 @@ M.S. Business Analytics · University of North Texas · GPA 3.83
 
 I build data pipelines, predictive models, and analytical systems that turn messy operational data into decisions people can act on. My work spans capacity forecasting, A/B experimentation, anomaly detection, and large-scale ETL — across cloud platforms like Microsoft Fabric, AWS, and Databricks.
 
-Currently a **Data Analytics Specialist at Group O**, where I've delivered:
+Currently a **Data Scientist at Group O**, where I've delivered:
 - 📈 **30% improvement** in forecast accuracy with PySpark-based predictive models
 - 💰 **$5M+ revenue impact** through A/B testing and propensity modeling
 - ⚡ **40% faster** report refresh times through optimized Fabric pipelines and SQL tuning
