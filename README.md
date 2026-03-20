@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/header.svg" alt="Janmejoy Kar — Data Scientist" width="100%" />
+<img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/header.svg" alt="Janmejoy Kar" width="100%" />
 
 &nbsp;
 
@@ -17,7 +17,7 @@ Data Scientist at **Group O** (2+ years) turning messy operational data into dec
 
 &nbsp;
 
-<img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-numbers.svg" width="45%" />
+<img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-numbers.svg" width="100%" />
 
 <div align="center">
 <table>
@@ -56,7 +56,7 @@ Data Scientist at **Group O** (2+ years) turning messy operational data into dec
 
 &nbsp;
 
-<img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-stack.svg" width="30%" />
+<img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-stack.svg" width="100%" />
 
 <div align="center">
 <table>
@@ -66,12 +66,9 @@ Data Scientist at **Group O** (2+ years) turning messy operational data into dec
 **Data & ML**
 <br/><br/>
 Python · R · PySpark · Scala · SQL
-<br/>
-Scikit-Learn · TensorFlow · OpenCV
-<br/>
-A/B Testing · Bayesian Inference
-<br/>
-NLP · Forecasting · Anomaly Detection
+<br/>Scikit-Learn · TensorFlow · OpenCV
+<br/>A/B Testing · Bayesian Inference
+<br/>NLP · Forecasting · Anomaly Detection
 
 </td>
 <td width="33%">
@@ -79,12 +76,9 @@ NLP · Forecasting · Anomaly Detection
 **Cloud & Engineering**
 <br/><br/>
 Microsoft Fabric · Azure Data Factory
-<br/>
-Databricks · AWS (S3, EC2)
-<br/>
-Hadoop · Hive · D365 ERP
-<br/>
-ETL Pipelines · Data Lakehouse
+<br/>Databricks · AWS (S3, EC2)
+<br/>Hadoop · Hive · D365 ERP
+<br/>ETL Pipelines · Data Lakehouse
 
 </td>
 <td width="33%">
@@ -92,12 +86,9 @@ ETL Pipelines · Data Lakehouse
 **Analytics & Databases**
 <br/><br/>
 Power BI · Tableau · DAX · QlikView
-<br/>
-SQL Server · MySQL · MongoDB
-<br/>
-Git · Jupyter · Google Colab
-<br/>
-Star Schema · Medallion Architecture
+<br/>SQL Server · MySQL · MongoDB
+<br/>Git · Jupyter · Google Colab
+<br/>Star Schema · Medallion Architecture
 
 </td>
 </tr>
@@ -106,7 +97,7 @@ Star Schema · Medallion Architecture
 
 &nbsp;
 
-<img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-work.svg" width="30%" />
+<img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-work.svg" width="100%" />
 
 **Data Scientist** — Group O *(Jan 2024 → Present)*
 <br/>Architecting end-to-end analytics across Microsoft Fabric, Databricks & AWS. Built forecasting models (+30% accuracy), A/B experimentation frameworks ($5M+ impact), anomaly detection (−20% fulfillment gaps), and optimized pipelines (40% faster refresh). Unified data from D365 ERP across finance, sales & inventory.
@@ -125,7 +116,7 @@ Star Schema · Medallion Architecture
 
 &nbsp;
 
-<img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-projects.svg" width="35%" />
+<img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-projects.svg" width="100%" />
 
 <div align="center">
 <table>
@@ -182,7 +173,7 @@ Star Schema · Medallion Architecture
 
 &nbsp;
 
-<img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-competitions.svg" width="45%" />
+<img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-competitions.svg" width="100%" />
 
 | Year | Competition | Focus |
 |:---:|:---|:---|
@@ -193,7 +184,7 @@ Star Schema · Medallion Architecture
 
 &nbsp;
 
-<img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-certs.svg" width="45%" />
+<img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-certs.svg" width="100%" />
 
 | Certification | Issuer | Year |
 |:---|:---|:---:|
@@ -209,7 +200,7 @@ Star Schema · Medallion Architecture
 
 &nbsp;
 
-<img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-community.svg" width="55%" />
+<img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-community.svg" width="100%" />
 
 | Role | Details | Years |
 |:---|:---|:---:|
@@ -221,7 +212,7 @@ Star Schema · Medallion Architecture
 
 &nbsp;
 
-<img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-github.svg" width="32%" />
+<img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-github.svg" width="100%" />
 
 <div align="center">
 
