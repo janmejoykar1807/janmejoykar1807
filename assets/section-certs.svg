@@ -1,28 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="50" viewBox="0 0 800 50">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120">
   <defs>
-    <linearGradient id="a" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#58a6ff;stop-opacity:0"/><stop offset="50%" style="stop-color:#58a6ff"/><stop offset="100%" style="stop-color:#58a6ff;stop-opacity:0"/></linearGradient>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#0d1117"/><stop offset="100%" style="stop-color:#161b22"/></linearGradient>
+    <linearGradient id="ac" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#bc8cff;stop-opacity:0"/><stop offset="50%" style="stop-color:#58a6ff"/><stop offset="100%" style="stop-color:#bc8cff;stop-opacity:0"/></linearGradient>
     <linearGradient id="sf" x1="0%" y1="100%" x2="0%" y2="0%"><stop offset="0%" style="stop-color:#58a6ff"/><stop offset="100%" style="stop-color:#bc8cff"/></linearGradient>
-    <linearGradient id="p" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#58a6ff;stop-opacity:0"/><stop offset="50%" style="stop-color:#bc8cff"/><stop offset="100%" style="stop-color:#58a6ff;stop-opacity:0"/></linearGradient>
-    <clipPath id="sc"><path d="M15,2 L28,2 Q30,2 30,4 L30,20 Q30,22 28,24 L22,30 Q21,31 20,30 L15,30 Z"/></clipPath>
+    <linearGradient id="pulse" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#58a6ff;stop-opacity:0"/><stop offset="50%" style="stop-color:#bc8cff"/><stop offset="100%" style="stop-color:#58a6ff;stop-opacity:0"/></linearGradient>
   </defs>
   <style>
-    @keyframes fl{0%{y:32}100%{y:2}}
-    @keyframes ck{0%{stroke-dashoffset:20}100%{stroke-dashoffset:0}}
-    @keyframes ti{0%{opacity:0;transform:translateY(5px)}100%{opacity:1;transform:translateY(0)}}
-    .cet{animation:ti .6s ease-out .2s both;font-family:'SF Mono','Fira Code',monospace}
+    @keyframes fu{0%{opacity:0;transform:translateY(15px)}100%{opacity:1;transform:translateY(0)}}
+    @keyframes ck{0%{stroke-dashoffset:60}100%{stroke-dashoffset:0}}
+    .title{animation:fu .8s ease-out .2s both;font-family:'Segoe UI',system-ui,sans-serif}
   </style>
-  <!-- Shield outline -->
-  <g transform="translate(5,8)">
-    <path d="M15,2 L28,2 Q30,2 30,4 L30,20 Q30,22 28,24 L22,30 Q21,31 20,30 L15,30 Q14,31 13,30 L7,24 Q5,22 5,20 L5,4 Q5,2 7,2 Z" fill="none" stroke="#58a6ff" stroke-width="1" opacity=".4"/>
-    <!-- Fill rising -->
-    <g clip-path="url(#sc)">
-      <rect x="5" y="32" width="26" height="30" fill="url(#sf)" opacity=".3"><animate attributeName="y" from="32" to="2" begin=".5s" dur="1.2s" fill="freeze"/></rect>
-    </g>
-    <!-- Checkmark drawing -->
-    <path d="M12,18 L17,23 L25,11" fill="none" stroke="#3fb950" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="20" stroke-dashoffset="20" opacity=".8"><animate attributeName="stroke-dashoffset" from="20" to="0" begin="1.5s" dur=".5s" fill="freeze"/></path>
+  <rect width="1200" height="120" fill="url(#bg)"/>
+  <!-- Large shield with animated fill + checkmark -->
+  <g transform="translate(25,10)">
+    <path d="M50,5 L90,5 Q95,5 95,10 L95,65 Q95,75 85,82 L55,100 Q50,103 45,100 L15,82 Q5,75 5,65 L5,10 Q5,5 10,5 Z" fill="none" stroke="#58a6ff" stroke-width="2" opacity=".3"/>
+    <clipPath id="sc"><path d="M50,5 L90,5 Q95,5 95,10 L95,65 Q95,75 85,82 L55,100 Q50,103 45,100 L15,82 Q5,75 5,65 L5,10 Q5,5 10,5 Z"/></clipPath>
+    <g clip-path="url(#sc)"><rect x="5" y="103" width="90" height="100" fill="url(#sf)" opacity=".2"><animate attributeName="y" from="103" to="5" begin=".5s" dur="1.5s" fill="freeze"/></rect></g>
+    <path d="M30,55 L45,70 L75,30" fill="none" stroke="#3fb950" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="60" stroke-dashoffset="60" opacity=".8"><animate attributeName="stroke-dashoffset" from="60" to="0" begin="1.8s" dur=".6s" fill="freeze"/></path>
   </g>
-  <text class="cet" x="60" y="32" font-size="16" fill="#e6edf3" font-weight="600">Certifications</text>
-  <rect x="60" y="40" width="0" height="1.5" fill="url(#a)" rx=".75"><animate attributeName="width" from="0" to="125" begin=".4s" dur=".6s" fill="freeze"/></rect>
-  <rect x="0" y="46" width="800" height="1" fill="url(#a)" opacity=".15"/>
-  <rect x="0" y="46" width="100" height="1" fill="url(#p)" opacity=".6" rx=".5"><animate attributeName="x" from="-100" to="800" dur="3.5s" repeatCount="indefinite"/></rect>
+  <text class="title" x="190" y="72" font-size="36" fill="#e6edf3" font-weight="700" letter-spacing="-0.5">Certifications</text>
+  <rect x="190" y="85" width="0" height="3" fill="url(#ac)" rx="1.5"><animate attributeName="width" from="0" to="240" begin=".6s" dur=".8s" fill="freeze"/></rect>
+  <rect x="0" y="116" width="1200" height="2" fill="url(#ac)" opacity=".2"/>
+  <rect x="0" y="116" width="200" height="2" fill="url(#pulse)" opacity=".7" rx="1"><animate attributeName="x" from="-200" to="1200" dur="3.5s" repeatCount="indefinite"/></rect>
 </svg>
