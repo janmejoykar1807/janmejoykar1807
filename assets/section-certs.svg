@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="50" viewBox="0 0 800 50">
+  <defs>
+    <linearGradient id="a" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#58a6ff;stop-opacity:0"/><stop offset="50%" style="stop-color:#58a6ff"/><stop offset="100%" style="stop-color:#58a6ff;stop-opacity:0"/></linearGradient>
+    <linearGradient id="sf" x1="0%" y1="100%" x2="0%" y2="0%"><stop offset="0%" style="stop-color:#58a6ff"/><stop offset="100%" style="stop-color:#bc8cff"/></linearGradient>
+    <linearGradient id="p" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#58a6ff;stop-opacity:0"/><stop offset="50%" style="stop-color:#bc8cff"/><stop offset="100%" style="stop-color:#58a6ff;stop-opacity:0"/></linearGradient>
+    <clipPath id="sc"><path d="M15,2 L28,2 Q30,2 30,4 L30,20 Q30,22 28,24 L22,30 Q21,31 20,30 L15,30 Z"/></clipPath>
+  </defs>
+  <style>
+    @keyframes fl{0%{y:32}100%{y:2}}
+    @keyframes ck{0%{stroke-dashoffset:20}100%{stroke-dashoffset:0}}
+    @keyframes ti{0%{opacity:0;transform:translateY(5px)}100%{opacity:1;transform:translateY(0)}}
+    .cet{animation:ti .6s ease-out .2s both;font-family:'SF Mono','Fira Code',monospace}
+  </style>
+  <!-- Shield outline -->
+  <g transform="translate(5,8)">
+    <path d="M15,2 L28,2 Q30,2 30,4 L30,20 Q30,22 28,24 L22,30 Q21,31 20,30 L15,30 Q14,31 13,30 L7,24 Q5,22 5,20 L5,4 Q5,2 7,2 Z" fill="none" stroke="#58a6ff" stroke-width="1" opacity=".4"/>
+    <!-- Fill rising -->
+    <g clip-path="url(#sc)">
+      <rect x="5" y="32" width="26" height="30" fill="url(#sf)" opacity=".3"><animate attributeName="y" from="32" to="2" begin=".5s" dur="1.2s" fill="freeze"/></rect>
+    </g>
+    <!-- Checkmark drawing -->
+    <path d="M12,18 L17,23 L25,11" fill="none" stroke="#3fb950" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="20" stroke-dashoffset="20" opacity=".8"><animate attributeName="stroke-dashoffset" from="20" to="0" begin="1.5s" dur=".5s" fill="freeze"/></path>
+  </g>
+  <text class="cet" x="60" y="32" font-size="16" fill="#e6edf3" font-weight="600">Certifications</text>
+  <rect x="60" y="40" width="0" height="1.5" fill="url(#a)" rx=".75"><animate attributeName="width" from="0" to="125" begin=".4s" dur=".6s" fill="freeze"/></rect>
+  <rect x="0" y="46" width="800" height="1" fill="url(#a)" opacity=".15"/>
+  <rect x="0" y="46" width="100" height="1" fill="url(#p)" opacity=".6" rx=".5"><animate attributeName="x" from="-100" to="800" dur="3.5s" repeatCount="indefinite"/></rect>
+</svg>
