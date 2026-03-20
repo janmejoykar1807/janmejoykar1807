@@ -1,27 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="50" viewBox="0 0 800 50">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120">
   <defs>
-    <linearGradient id="a" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#58a6ff;stop-opacity:0"/><stop offset="50%" style="stop-color:#58a6ff"/><stop offset="100%" style="stop-color:#58a6ff;stop-opacity:0"/></linearGradient>
-    <linearGradient id="p" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#f78166;stop-opacity:0"/><stop offset="50%" style="stop-color:#f78166"/><stop offset="100%" style="stop-color:#bc8cff;stop-opacity:0"/></linearGradient>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#0d1117"/><stop offset="100%" style="stop-color:#161b22"/></linearGradient>
+    <linearGradient id="ac" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#f78166;stop-opacity:0"/><stop offset="50%" style="stop-color:#f78166"/><stop offset="100%" style="stop-color:#f78166;stop-opacity:0"/></linearGradient>
+    <linearGradient id="pulse" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#f78166;stop-opacity:0"/><stop offset="50%" style="stop-color:#f78166"/><stop offset="100%" style="stop-color:#bc8cff;stop-opacity:0"/></linearGradient>
   </defs>
   <style>
+    @keyframes fu{0%{opacity:0;transform:translateY(15px)}100%{opacity:1;transform:translateY(0)}}
     @keyframes sp{0%,100%{opacity:0;transform:scale(0)}50%{opacity:1;transform:scale(1)}}
-    @keyframes ti{0%{opacity:0;transform:translateY(5px)}100%{opacity:1;transform:translateY(0)}}
-    @keyframes tg{0%,100%{fill:#f78166}50%{fill:#ffd700}}
-    .ct{animation:ti .6s ease-out .2s both;font-family:'SF Mono','Fira Code',monospace}
+    @keyframes ri{0%{transform:scale(.8);opacity:0}100%{transform:scale(1);opacity:1}}
+    .title{animation:fu .8s ease-out .2s both;font-family:'Segoe UI',system-ui,sans-serif}
     .sk{animation:sp 2s ease-in-out infinite}
-    .tp{animation:tg 3s ease-in-out infinite}
+    .trophy{animation:ri .6s ease-out .3s both}
   </style>
-  <!-- Trophy icon -->
-  <g transform="translate(15,10)">
-    <text class="tp" x="0" y="26" font-size="26">🏆</text>
-    <!-- Sparkles around trophy -->
-    <circle class="sk" cx="30" cy="5" r="1.5" fill="#ffd700" style="animation-delay:0s"/>
-    <circle class="sk" cx="35" cy="15" r="1" fill="#ffd700" style="animation-delay:.7s"/>
-    <circle class="sk" cx="5" cy="3" r="1" fill="#ffd700" style="animation-delay:1.4s"/>
-    <circle class="sk" cx="-2" cy="18" r="1.2" fill="#ffd700" style="animation-delay:2s"/>
+  <rect width="1200" height="120" fill="url(#bg)"/>
+  <!-- Large trophy with sparkles -->
+  <g transform="translate(25,10)">
+    <text class="trophy" x="0" y="80" font-size="70">🏆</text>
+    <circle class="sk" cx="80" cy="15" r="4" fill="#ffd700" style="animation-delay:0s"/>
+    <circle class="sk" cx="95" cy="45" r="3" fill="#ffd700" style="animation-delay:.7s"/>
+    <circle class="sk" cx="10" cy="10" r="3" fill="#ffd700" style="animation-delay:1.4s"/>
+    <circle class="sk" cx="-5" cy="55" r="3.5" fill="#ffd700" style="animation-delay:2s"/>
+    <circle class="sk" cx="70" cy="75" r="2.5" fill="#ffd700" style="animation-delay:1s"/>
   </g>
-  <text class="ct" x="60" y="32" font-size="16" fill="#e6edf3" font-weight="600">Competitions</text>
-  <rect x="60" y="40" width="0" height="1.5" fill="url(#a)" rx=".75"><animate attributeName="width" from="0" to="120" begin=".4s" dur=".6s" fill="freeze"/></rect>
-  <rect x="0" y="46" width="800" height="1" fill="url(#a)" opacity=".15"/>
-  <rect x="0" y="46" width="100" height="1" fill="url(#p)" opacity=".6" rx=".5"><animate attributeName="x" from="-100" to="800" dur="2.8s" repeatCount="indefinite"/></rect>
+  <text class="title" x="190" y="72" font-size="36" fill="#e6edf3" font-weight="700" letter-spacing="-0.5">Competitions</text>
+  <rect x="190" y="85" width="0" height="3" fill="url(#ac)" rx="1.5"><animate attributeName="width" from="0" to="230" begin=".6s" dur=".8s" fill="freeze"/></rect>
+  <rect x="0" y="116" width="1200" height="2" fill="url(#ac)" opacity=".2"/>
+  <rect x="0" y="116" width="200" height="2" fill="url(#pulse)" opacity=".7" rx="1"><animate attributeName="x" from="-200" to="1200" dur="2.8s" repeatCount="indefinite"/></rect>
 </svg>
