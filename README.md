@@ -229,11 +229,8 @@ Power BI · Tableau · DAX · QlikView
 
 <br/>
 
-<img src="https://ghchart.rshah.org/58a6ff/janmejoykar1807" alt="Contribution Chart" width="90%" />
-
-<br/><br/>
-
-[![GitHub Skyline](https://img.shields.io/badge/🏔️_View_3D_Contribution_Skyline-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://skyline.github.com/janmejoykar1807/2025)
+<!-- Animated Career Journey — replaces the heatmap -->
+<img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/journey.svg" width="100%" />
 
 </div>
 
@@ -243,7 +240,7 @@ Power BI · Tableau · DAX · QlikView
 
 <div align="center">
 
-*"In God we trust. All others must bring data."* — W. Edwards Deming
+*"The more I learn, the more I realize how much I don't know."* — Albert Einstein
 
 &nbsp;
 
