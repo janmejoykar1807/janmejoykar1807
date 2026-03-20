@@ -1,13 +1,5 @@
-<!--
-    ╭─────────────────────────────────────────────╮
-    │  Janmejoy Kar · Data Scientist · Group O    │
-    │  github.com/janmejoykar1807                 │
-    ╰─────────────────────────────────────────────╯
--->
-
 <div align="center">
-
-<img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/header.svg" alt="Janmejoy Kar — Data Scientist" width="100%" />
+<img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/header.svg" alt="Janmejoy Kar — Data Scientist" width="100%" />
 
 &nbsp;
 
@@ -15,12 +7,7 @@
 <a href="https://janmejoykar-portfolio.vercel.app"><img src="https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
 <a href="mailto:janmejoy1807@gmail.com"><img src="https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
 ![](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjanmejoykar1807&label=views&labelColor=0d1117&countColor=58a6ff&style=flat-square)
-
 </div>
-
-&nbsp;
-
-<div align="center"><img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/divider.svg" width="70%" /></div>
 
 &nbsp;
 
@@ -30,14 +17,9 @@ Data Scientist at **Group O** (2+ years) turning messy operational data into dec
 
 &nbsp;
 
-<div align="center"><img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/divider.svg" width="70%" /></div>
-
-&nbsp;
-
-## By the Numbers
+<img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-numbers.svg" width="45%" />
 
 <div align="center">
-
 <table>
 <tr>
 <td align="center" width="25%">
@@ -70,19 +52,13 @@ Data Scientist at **Group O** (2+ years) turning messy operational data into dec
 </td>
 </tr>
 </table>
-
 </div>
 
 &nbsp;
 
-<div align="center"><img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/divider.svg" width="70%" /></div>
-
-&nbsp;
-
-## Stack
+<img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-stack.svg" width="30%" />
 
 <div align="center">
-
 <table>
 <tr>
 <td width="33%">
@@ -126,60 +102,46 @@ Star Schema · Medallion Architecture
 </td>
 </tr>
 </table>
-
 </div>
 
 &nbsp;
 
-<div align="center"><img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/divider.svg" width="70%" /></div>
-
-&nbsp;
-
-## Work
+<img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-work.svg" width="30%" />
 
 **Data Scientist** — Group O *(Jan 2024 → Present)*
 <br/>Architecting end-to-end analytics across Microsoft Fabric, Databricks & AWS. Built forecasting models (+30% accuracy), A/B experimentation frameworks ($5M+ impact), anomaly detection (−20% fulfillment gaps), and optimized pipelines (40% faster refresh). Unified data from D365 ERP across finance, sales & inventory.
 
 **Graduate Teaching Assistant** — University of North Texas *(Aug–Dec 2023)*
-<br/>DSCI 5240: Data Mining & Machine Learning. Grading, lectures, and student mentorship for graduate-level ML course.
+<br/>DSCI 5240: Data Mining & Machine Learning. Grading, lectures, and student mentorship.
 
 **Graduate Student Assistant** — UNT Libraries *(Jun 2022–Aug 2023)*
-<br/>Research assistance, data collection systems, and technology instruction for faculty and patrons.
+<br/>Research assistance, data collection systems, and technology instruction.
 
 **ML Trainee** — Indian Servers *(Jun–Sep 2020)*
-<br/>Computer Vision with OpenCV + Caffe. Worked on MNIST, Fashion-MNIST, CIFAR-100, Titanic, and Mobile Price Prediction datasets.
+<br/>Computer Vision with OpenCV + Caffe. MNIST, Fashion-MNIST, CIFAR-100, Titanic, Mobile Price Prediction.
 
 **Business Strategist** — FilingRabbit *(Nov 2020–Jan 2021)*
-<br/>Competitive analysis for copyright/patent pricing. Built client-facing website and ran digital marketing.
+<br/>Competitive analysis for copyright/patent pricing. Website development and digital marketing.
 
 &nbsp;
 
-<div align="center"><img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/divider.svg" width="70%" /></div>
-
-&nbsp;
-
-## Projects
+<img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-projects.svg" width="35%" />
 
 <div align="center">
-
 <table>
 <tr>
 <td width="50%">
 
 **[🩺 Hepatitis C Prediction](https://github.com/janmejoykar1807/HepatitisC_Project)**
-<br/>
-Hypothesis testing, z-tests & logistic regression on clinical biomarker data.
-<br/>
-<sub>Python · R · Scikit-Learn · Statistics</sub>
+<br/>Hypothesis testing, z-tests & logistic regression on clinical biomarker data.
+<br/><sub>Python · R · Scikit-Learn · Statistics</sub>
 
 </td>
 <td width="50%">
 
 **[⛏️ Python Data Mining](https://github.com/janmejoykar1807/Python_Data_Mining_Projects)**
-<br/>
-Spam detection, airfare regression, salary prediction & k-means clustering.
-<br/>
-<sub>Python · Scikit-Learn · Pandas · NumPy</sub>
+<br/>Spam detection, airfare regression, salary prediction & k-means clustering.
+<br/><sub>Python · Scikit-Learn · Pandas · NumPy</sub>
 
 </td>
 </tr>
@@ -187,19 +149,15 @@ Spam detection, airfare regression, salary prediction & k-means clustering.
 <td width="50%">
 
 **[📊 R Data Mining](https://github.com/janmejoykar1807/R_Data_Mining_Projects)**
-<br/>
-Time series, text mining, SVM classification & insurance regression.
-<br/>
-<sub>R · R Markdown · ggplot2 · caret</sub>
+<br/>Time series, text mining, SVM classification & insurance regression.
+<br/><sub>R · R Markdown · ggplot2 · caret</sub>
 
 </td>
 <td width="50%">
 
 **[🏭 Toxic Release Inventory](https://github.com/janmejoykar1807/Business-Process-Analytics-Project)**
-<br/>
-EPA environmental data analysis across industries and states.
-<br/>
-<sub>Python · Pandas · Data Visualization</sub>
+<br/>EPA environmental data analysis across industries and states.
+<br/><sub>Python · Pandas · Data Visualization</sub>
 
 </td>
 </tr>
@@ -207,33 +165,24 @@ EPA environmental data analysis across industries and states.
 <td width="50%">
 
 **[🗄️ SQL Masterclass](https://github.com/janmejoykar1807/SQL_project)**
-<br/>
-Complex joins, CTEs, window functions & query optimization.
-<br/>
-<sub>SQL · SQL Server · Performance Tuning</sub>
+<br/>Complex joins, CTEs, window functions & query optimization.
+<br/><sub>SQL · SQL Server · Performance Tuning</sub>
 
 </td>
 <td width="50%">
 
 **[🌐 Portfolio Website](https://janmejoykar-portfolio.vercel.app)**
-<br/>
-Live personal portfolio with projects, skills & certifications.
-<br/>
-<sub>React · Vercel · JavaScript · CSS</sub>
+<br/>Live personal portfolio with projects, skills & certifications.
+<br/><sub>React · Vercel · JavaScript · CSS</sub>
 
 </td>
 </tr>
 </table>
-
 </div>
 
 &nbsp;
 
-<div align="center"><img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/divider.svg" width="70%" /></div>
-
-&nbsp;
-
-## Competitions
+<img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-competitions.svg" width="45%" />
 
 | Year | Competition | Focus |
 |:---:|:---|:---|
@@ -244,11 +193,7 @@ Live personal portfolio with projects, skills & certifications.
 
 &nbsp;
 
-<div align="center"><img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/divider.svg" width="70%" /></div>
-
-&nbsp;
-
-## Certifications
+<img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-certs.svg" width="45%" />
 
 | Certification | Issuer | Year |
 |:---|:---|:---:|
@@ -264,11 +209,7 @@ Live personal portfolio with projects, skills & certifications.
 
 &nbsp;
 
-<div align="center"><img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/divider.svg" width="70%" /></div>
-
-&nbsp;
-
-## Community & Volunteering
+<img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-community.svg" width="55%" />
 
 | Role | Details | Years |
 |:---|:---|:---:|
@@ -280,11 +221,7 @@ Live personal portfolio with projects, skills & certifications.
 
 &nbsp;
 
-<div align="center"><img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/divider.svg" width="70%" /></div>
-
-&nbsp;
-
-## GitHub
+<img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-github.svg" width="32%" />
 
 <div align="center">
 
@@ -297,25 +234,17 @@ Live personal portfolio with projects, skills & certifications.
 
 <br/><br/>
 
-<!-- Contribution activity line chart -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=janmejoykar1807&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f78166&area=true&area_color=58a6ff)](https://github.com/janmejoykar1807)
 
 <br/>
 
-<!-- 3D Contribution Calendar — replace snake with this unique visual -->
-<!-- View your 3D contribution history at: https://skyline.github.com/janmejoykar1807 -->
-[![GitHub Skyline](https://img.shields.io/badge/🏔️_View_3D_Contribution_Skyline-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://skyline.github.com/janmejoykar1807/2025)
-
-<br/>
-
-<!-- Animated contribution grid using github-contributions-chart -->
 <img src="https://ghchart.rshah.org/58a6ff/janmejoykar1807" alt="Contribution Chart" width="90%" />
 
+<br/><br/>
+
+[![GitHub Skyline](https://img.shields.io/badge/🏔️_View_3D_Contribution_Skyline-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://skyline.github.com/janmejoykar1807/2025)
+
 </div>
-
-&nbsp;
-
-<div align="center"><img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/divider.svg" width="70%" /></div>
 
 &nbsp;
 
