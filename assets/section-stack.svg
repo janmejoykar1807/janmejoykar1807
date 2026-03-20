@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="50" viewBox="0 0 800 50">
+  <defs>
+    <linearGradient id="a" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#58a6ff;stop-opacity:0"/><stop offset="50%" style="stop-color:#58a6ff"/><stop offset="100%" style="stop-color:#58a6ff;stop-opacity:0"/></linearGradient>
+    <linearGradient id="p" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#3fb950;stop-opacity:0"/><stop offset="50%" style="stop-color:#58a6ff"/><stop offset="100%" style="stop-color:#bc8cff;stop-opacity:0"/></linearGradient>
+    <filter id="gl"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <style>
+    @keyframes np{0%,100%{opacity:.3;r:2.5}50%{opacity:.9;r:3.5}}
+    @keyframes dr{0%{stroke-dashoffset:40}100%{stroke-dashoffset:0}}
+    @keyframes ti{0%{opacity:0;transform:translateY(5px)}100%{opacity:1;transform:translateY(0)}}
+    .cn{animation:np 2s ease-in-out infinite}
+    .ct{stroke-dasharray:40;stroke-dashoffset:40;animation:dr 1.5s ease-out forwards}
+    .st{animation:ti .6s ease-out .2s both;font-family:'SF Mono','Fira Code',monospace}
+  </style>
+  <!-- Circuit traces -->
+  <g transform="translate(10,10)">
+    <path class="ct" d="M0,15 L10,15 L15,5 L25,5" fill="none" stroke="#58a6ff" stroke-width="1" opacity=".4" style="animation-delay:0s"/>
+    <path class="ct" d="M0,20 L10,20 L20,25 L30,25 L35,15" fill="none" stroke="#3fb950" stroke-width="1" opacity=".3" style="animation-delay:.3s"/>
+    <path class="ct" d="M5,30 L15,30 L20,20 L35,20" fill="none" stroke="#bc8cff" stroke-width="1" opacity=".3" style="animation-delay:.6s"/>
+    <circle class="cn" cx="25" cy="5" r="2.5" fill="#58a6ff" filter="url(#gl)"/>
+    <circle class="cn" cx="35" cy="15" r="2.5" fill="#3fb950" filter="url(#gl)" style="animation-delay:.8s"/>
+    <circle class="cn" cx="35" cy="20" r="2" fill="#bc8cff" filter="url(#gl)" style="animation-delay:1.5s"/>
+  </g>
+  <text class="st" x="60" y="32" font-size="16" fill="#e6edf3" font-weight="600">Stack</text>
+  <rect x="60" y="40" width="0" height="1.5" fill="url(#a)" rx=".75"><animate attributeName="width" from="0" to="55" begin=".4s" dur=".6s" fill="freeze"/></rect>
+  <rect x="0" y="46" width="800" height="1" fill="url(#a)" opacity=".15"/>
+  <rect x="0" y="46" width="100" height="1" fill="url(#p)" opacity=".6" rx=".5"><animate attributeName="x" from="-100" to="800" dur="3.5s" repeatCount="indefinite"/></rect>
+</svg>
