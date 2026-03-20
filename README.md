@@ -20,11 +20,17 @@
 
 &nbsp;
 
+<div align="center"><img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/divider.svg" width="70%" /></div>
+
+&nbsp;
+
 ## About
 
 Data Scientist at **Group O** (2+ years) turning messy operational data into decisions people act on. I build forecasting models, anomaly detection systems, and analytics pipelines across **Microsoft Fabric**, **AWS**, and **Databricks**. Published researcher. 7x certified across Microsoft & AWS. Previously organized and spoke at UNT's Business Analytics Day on *"Empowering Data-Driven Decisions with Microsoft Fabric."*
 
-**Education** — M.S. Business Analytics, University of North Texas (3.83 GPA) · B.Tech CS (Business Analytics), Sandip University
+&nbsp;
+
+<div align="center"><img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/divider.svg" width="70%" /></div>
 
 &nbsp;
 
@@ -36,28 +42,28 @@ Data Scientist at **Group O** (2+ years) turning messy operational data into dec
 <tr>
 <td align="center" width="25%">
 
-**30%**
+<picture><img src="https://img.shields.io/badge/30%25-58a6ff?style=for-the-badge&labelColor=0d1117" /></picture>
 <br/>forecast accuracy↑
 <br/><sub>PySpark ML models</sub>
 
 </td>
 <td align="center" width="25%">
 
-**$5M+**
+<picture><img src="https://img.shields.io/badge/%245M%2B-3fb950?style=for-the-badge&labelColor=0d1117" /></picture>
 <br/>revenue impact
 <br/><sub>A/B testing & propensity</sub>
 
 </td>
 <td align="center" width="25%">
 
-**40%**
+<picture><img src="https://img.shields.io/badge/40%25-bc8cff?style=for-the-badge&labelColor=0d1117" /></picture>
 <br/>faster refresh
 <br/><sub>Fabric pipeline tuning</sub>
 
 </td>
 <td align="center" width="25%">
 
-**20%**
+<picture><img src="https://img.shields.io/badge/20%25-f78166?style=for-the-badge&labelColor=0d1117" /></picture>
 <br/>fewer gaps
 <br/><sub>anomaly detection</sub>
 
@@ -66,6 +72,10 @@ Data Scientist at **Group O** (2+ years) turning messy operational data into dec
 </table>
 
 </div>
+
+&nbsp;
+
+<div align="center"><img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/divider.svg" width="70%" /></div>
 
 &nbsp;
 
@@ -121,6 +131,10 @@ Star Schema · Medallion Architecture
 
 &nbsp;
 
+<div align="center"><img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/divider.svg" width="70%" /></div>
+
+&nbsp;
+
 ## Work
 
 **Data Scientist** — Group O *(Jan 2024 → Present)*
@@ -137,6 +151,10 @@ Star Schema · Medallion Architecture
 
 **Business Strategist** — FilingRabbit *(Nov 2020–Jan 2021)*
 <br/>Competitive analysis for copyright/patent pricing. Built client-facing website and ran digital marketing.
+
+&nbsp;
+
+<div align="center"><img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/divider.svg" width="70%" /></div>
 
 &nbsp;
 
@@ -211,6 +229,10 @@ Live personal portfolio with projects, skills & certifications.
 
 &nbsp;
 
+<div align="center"><img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/divider.svg" width="70%" /></div>
+
+&nbsp;
+
 ## Competitions
 
 | Year | Competition | Focus |
@@ -219,6 +241,10 @@ Live personal portfolio with projects, skills & certifications.
 | 2022 | **Humana May's Case Analytics Competition** — UNT | Predicting housing insecurity for Medicare/Medicaid customers |
 | 2020 | **IBM ICE Day Hackathon — 🏆 Winner** | Data science |
 | 2019 | **IBM ICE Day Hackathon — 🥈 1st Runner-up** | Data science |
+
+&nbsp;
+
+<div align="center"><img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/divider.svg" width="70%" /></div>
 
 &nbsp;
 
@@ -238,15 +264,23 @@ Live personal portfolio with projects, skills & certifications.
 
 &nbsp;
 
+<div align="center"><img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/divider.svg" width="70%" /></div>
+
+&nbsp;
+
 ## Community & Volunteering
 
-| Role | Details |
-|:---|:---|
-| 🎤 **Speaker** — 3rd UNT ITDS Business Analytics Day | Presented *"Empowering Data-Driven Decisions with Microsoft Fabric"* to students and industry professionals |
-| 👔 **President** — Business Analytics Club, UNT | Organized hackathons, industry mixers, technical seminars & sporting events |
-| 🔬 **Peer Reviewer** — CODATA *(2026–Present)* | Reviewing manuscripts in data science, statistical modeling & computational methods |
-| 🎯 **Student Mentor** — GradRight Inc. *(2022–2024)* | Helped students choose universities and plan their careers |
-| 📄 **Published Researcher** | *Detection of Traffic Signs by CNN Using Sequential API* |
+| Role | Details | Years |
+|:---|:---|:---:|
+| 🔬 **Peer Reviewer** — CODATA | Reviewing manuscripts in data science, statistical modeling & computational methods | 2026–Present |
+| 🎤 **Speaker** — 3rd UNT ITDS Business Analytics Day | Presented *"Empowering Data-Driven Decisions with Microsoft Fabric"* | 2024 |
+| 🎯 **Student Mentor** — GradRight Inc. | Helped students choose universities and plan their careers | 2022–2024 |
+| 👔 **President** — Business Analytics Club, UNT | Organized hackathons, industry mixers, technical seminars & sporting events | 2022–2023 |
+| 📄 **Published Researcher** | *Detection of Traffic Signs by CNN Using Sequential API* | 2021 |
+
+&nbsp;
+
+<div align="center"><img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/divider.svg" width="70%" /></div>
 
 &nbsp;
 
@@ -263,17 +297,25 @@ Live personal portfolio with projects, skills & certifications.
 
 <br/><br/>
 
+<!-- Contribution activity line chart -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=janmejoykar1807&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f78166&area=true&area_color=58a6ff)](https://github.com/janmejoykar1807)
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janmejoykar1807/janmejoykar1807/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/janmejoykar1807/janmejoykar1807/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/janmejoykar1807/janmejoykar1807/output/github-snake-dark.svg" />
-</picture>
+<!-- 3D Contribution Calendar — replace snake with this unique visual -->
+<!-- View your 3D contribution history at: https://skyline.github.com/janmejoykar1807 -->
+[![GitHub Skyline](https://img.shields.io/badge/🏔️_View_3D_Contribution_Skyline-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://skyline.github.com/janmejoykar1807/2025)
+
+<br/>
+
+<!-- Animated contribution grid using github-contributions-chart -->
+<img src="https://ghchart.rshah.org/58a6ff/janmejoykar1807" alt="Contribution Chart" width="90%" />
 
 </div>
+
+&nbsp;
+
+<div align="center"><img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/divider.svg" width="70%" /></div>
 
 &nbsp;
 
