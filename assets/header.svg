@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#0d1117"/><stop offset="50%" style="stop-color:#161b22"/><stop offset="100%" style="stop-color:#0d1117"/></linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#58a6ff"/><stop offset="50%" style="stop-color:#bc8cff"/><stop offset="100%" style="stop-color:#f78166"/></linearGradient>
+    <linearGradient id="tg" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#e6edf3"/><stop offset="100%" style="stop-color:#c9d1d9"/></linearGradient>
+    <linearGradient id="cl" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#58a6ff"/><stop offset="100%" style="stop-color:#3fb950"/></linearGradient>
+    <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0L0 0 0 40" fill="none" stroke="#21262d" stroke-width=".5" opacity=".3"/></pattern>
+    <filter id="gl"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <style>
+    @keyframes p{0%,100%{opacity:.15;r:3}50%{opacity:.6;r:4.5}}
+    @keyframes ps{0%,100%{opacity:.1;r:2}50%{opacity:.4;r:3}}
+    @keyframes dl{0%{stroke-dashoffset:200}100%{stroke-dashoffset:0}}
+    @keyframes fu{0%{opacity:0;transform:translateY(12px)}100%{opacity:1;transform:translateY(0)}}
+    @keyframes sh{0%{opacity:.4}50%{opacity:.8}100%{opacity:.4}}
+    @keyframes fl{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+    .n{animation:p 3s ease-in-out infinite}.ns{animation:ps 4s ease-in-out infinite}
+    .cp{stroke-dasharray:200;stroke-dashoffset:200;animation:dl 3s ease-out forwards}
+    .t1{animation:fu 1s ease-out .3s both}.t2{animation:fu 1s ease-out .6s both}.t3{animation:fu 1s ease-out .9s both}.t4{animation:fu 1s ease-out 1.1s both}
+    .sh{animation:sh 3s ease-in-out infinite}
+    .f1{animation:fl 5s ease-in-out infinite}.f2{animation:fl 5s ease-in-out 1.5s infinite}.f3{animation:fl 5s ease-in-out 3s infinite}
+  </style>
+  <rect width="1200" height="300" fill="url(#bg)"/><rect width="1200" height="300" fill="url(#g)"/>
+  <rect x="0" y="0" width="1200" height="2" fill="url(#accent)" opacity=".8"/>
+  <rect class="sh" x="0" y="0" width="300" height="2" fill="url(#accent)" opacity=".5" rx="1"><animate attributeName="x" from="-300" to="1200" dur="4s" repeatCount="indefinite"/></rect>
+  <g><line x1="80" y1="65" x2="150" y2="95" stroke="#58a6ff" stroke-width=".5" opacity=".15"/><line x1="80" y1="65" x2="120" y2="40" stroke="#58a6ff" stroke-width=".5" opacity=".15"/><line x1="120" y1="40" x2="190" y2="50" stroke="#58a6ff" stroke-width=".5" opacity=".15"/><line x1="60" y1="125" x2="80" y2="65" stroke="#58a6ff" stroke-width=".5" opacity=".1"/><line x1="60" y1="125" x2="150" y2="95" stroke="#58a6ff" stroke-width=".5" opacity=".1"/>
+  <circle class="n f1" cx="80" cy="65" r="3" fill="#58a6ff" filter="url(#gl)"/><circle class="n f2" cx="150" cy="95" r="2.5" fill="#58a6ff" filter="url(#gl)" style="animation-delay:.8s"/><circle class="ns f3" cx="120" cy="40" r="2" fill="#58a6ff" style="animation-delay:1.5s"/><circle class="n f1" cx="190" cy="50" r="2" fill="#58a6ff" style="animation-delay:.5s"/><circle class="ns f2" cx="60" cy="125" r="2.5" fill="#58a6ff" style="animation-delay:2s"/></g>
+  <g><line x1="1020" y1="200" x2="1080" y2="230" stroke="#f78166" stroke-width=".5" opacity=".15"/><line x1="1020" y1="200" x2="1100" y2="175" stroke="#f78166" stroke-width=".5" opacity=".15"/><line x1="1080" y1="230" x2="1140" y2="210" stroke="#f78166" stroke-width=".5" opacity=".12"/><line x1="1060" y1="155" x2="1020" y2="200" stroke="#f78166" stroke-width=".5" opacity=".1"/>
+  <circle class="n f2" cx="1020" cy="200" r="3" fill="#f78166" filter="url(#gl)" style="animation-delay:.3s"/><circle class="ns f3" cx="1080" cy="230" r="2" fill="#f78166" style="animation-delay:1s"/><circle class="n f1" cx="1100" cy="175" r="2.5" fill="#f78166" filter="url(#gl)" style="animation-delay:1.8s"/><circle class="n f2" cx="1140" cy="210" r="2" fill="#f78166" style="animation-delay:.7s"/><circle class="ns f3" cx="1060" cy="155" r="2.5" fill="#f78166" style="animation-delay:2.2s"/></g>
+  <g transform="translate(980,45)"><line x1="0" y1="55" x2="130" y2="55" stroke="#21262d" stroke-width=".5"/><polyline class="cp" points="0,50 20,42 40,45 55,28 70,32 85,18 100,22 115,10 130,14" fill="none" stroke="url(#cl)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><circle cx="130" cy="14" r="2.5" fill="#3fb950" opacity="0"><animate attributeName="opacity" from="0" to=".8" begin="2.5s" dur=".5s" fill="freeze"/></circle></g>
+  <g transform="translate(50,190)" opacity=".12"><rect x="0" y="30" width="8" height="0" fill="#58a6ff" rx="1"><animate attributeName="height" from="0" to="20" begin="1s" dur=".5s" fill="freeze"/><animate attributeName="y" from="30" to="10" begin="1s" dur=".5s" fill="freeze"/></rect><rect x="12" y="30" width="8" height="0" fill="#58a6ff" rx="1"><animate attributeName="height" from="0" to="30" begin="1.2s" dur=".5s" fill="freeze"/><animate attributeName="y" from="30" to="0" begin="1.2s" dur=".5s" fill="freeze"/></rect><rect x="24" y="30" width="8" height="0" fill="#58a6ff" rx="1"><animate attributeName="height" from="0" to="15" begin="1.4s" dur=".5s" fill="freeze"/><animate attributeName="y" from="30" to="15" begin="1.4s" dur=".5s" fill="freeze"/></rect><rect x="36" y="30" width="8" height="0" fill="#3fb950" rx="1"><animate attributeName="height" from="0" to="25" begin="1.6s" dur=".5s" fill="freeze"/><animate attributeName="y" from="30" to="5" begin="1.6s" dur=".5s" fill="freeze"/></rect></g>
+  <text class="t1" x="600" y="105" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="54" font-weight="700" fill="url(#tg)" letter-spacing="-1">Janmejoy Kar</text>
+  <text class="t2" x="600" y="150" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="18" font-weight="400" fill="#8b949e" letter-spacing="4">DATA SCIENTIST  ·  DATA ENGINEER  ·  ANALYTICS ARCHITECT</text>
+  <rect class="sh" x="520" y="170" width="160" height="1.5" fill="url(#accent)" opacity=".6" rx=".75"/>
+  <text class="t3" x="600" y="205" text-anchor="middle" font-family="'SF Mono','Fira Code',monospace" font-size="13" fill="#58a6ff" letter-spacing="1">7x CERTIFIED  ·  $5M+ IMPACT  ·  PUBLISHED RESEARCHER  ·  SPEAKER</text>
+  <text class="t4" x="600" y="238" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="13" fill="#484f58">Group O  ·  M.S. Business Analytics  ·  7x Microsoft &amp; AWS Certified</text>
+  <rect x="0" y="298" width="1200" height="2" fill="url(#accent)" opacity=".4"/>
+  <rect class="sh" x="0" y="298" width="300" height="2" fill="url(#accent)" opacity=".3" rx="1" style="animation-delay:2s"><animate attributeName="x" from="1200" to="-300" dur="4s" repeatCount="indefinite"/></rect>
+</svg>
