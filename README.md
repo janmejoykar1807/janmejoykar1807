@@ -237,6 +237,7 @@ Power BI · Tableau · DAX · QlikView
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=janmejoykar1807&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+<img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/stats.svg" width="480" />
 <img width="49%" src="https://streak-stats.demolab.com?user=janmejoykar1807&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=f78166&currStreakNum=c9d1d9&sideNums=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
 
 <br/>
