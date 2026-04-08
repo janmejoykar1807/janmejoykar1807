@@ -200,6 +200,12 @@ Power BI · Tableau · DAX · QlikView
 
 &nbsp;
 
+<img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-publications.svg" width="100%" />
+
+| Title | Journal | Authors | Year |
+|:---|:---|:---|:---:|
+| **[Achieving Effective Batch-to-Batch Error Correction through Suppression Correction and Dual MSTUS Normalization](https://pubs.acs.org/doi/10.1021/acs.analchem.5c05210)** | Analytical Chemistry (ACS) | Debasish Ghosh, Janmejoy Kar, Felice A. de Jong, Chris Beecher, Vladimir Shulaev | 2025 |
+
 <img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-community.svg" width="100%" />
 
 | Role | Details | Years |
@@ -208,15 +214,6 @@ Power BI · Tableau · DAX · QlikView
 | 🎤 **Speaker** — 3rd UNT ITDS Business Analytics Day | Presented *"Empowering Data-Driven Decisions with Microsoft Fabric"* | 2024 |
 | 🎯 **Student Mentor** — GradRight Inc. | Helped students choose universities and plan their careers | 2022–2024 |
 | 👔 **President** — Business Analytics Club, UNT | Organized hackathons, industry mixers, technical seminars & sporting events | 2022–2023 |
-| 📄 **Published Researcher** | *Detection of Traffic Signs by CNN Using Sequential API* | 2021 |
-
-&nbsp;
-
-<img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-publications.svg" width="100%" />
-
-| Title | Journal | Year | URL |
-|:---|:---|:---|:---|
-| *Detection of Traffic Signs by CNN Using Sequential API* | International Journal of Computer Applications | 2021 | [Link](https://www.ijcaonline.org/archives/volume182/number14/32091-2021910263) |
 
 &nbsp;
 
