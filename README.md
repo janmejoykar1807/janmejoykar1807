@@ -202,9 +202,9 @@ Power BI · Tableau · DAX · QlikView
 
 <img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-publications.svg" width="100%" />
 
-| Title | Journal | Authors | Year |
-|:---|:---|:---|:---:|
-| **[Achieving Effective Batch-to-Batch Error Correction through Suppression Correction and Dual MSTUS Normalization](https://pubs.acs.org/doi/10.1021/acs.analchem.5c05210)** | Analytical Chemistry (ACS) | Debasish Ghosh, Janmejoy Kar, Felice A. de Jong, Chris Beecher, Vladimir Shulaev | 2025 |
+| Title | Journal | Authors | Year | Link |
+|:---|:---|:---|:---:|:---:|
+| [Achieving Effective Batch-to-Batch Error Correction through Suppression Correction and Dual MSTUS Normalization] | Analytical Chemistry (ACS) | Debasish Ghosh, Janmejoy Kar, Felice A. de Jong, Chris Beecher, Vladimir Shulaev | 2025 | **[Link](https://pubs.acs.org/doi/10.1021/acs.analchem.5c05210)** |
 
 <img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-community.svg" width="100%" />
 
