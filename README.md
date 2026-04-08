@@ -205,7 +205,7 @@ Power BI · Tableau · DAX · QlikView
 | Title | Journal | Year | Link |
 |:---|:---|:---:|:---|
 | **Achieving Effective Batch-to-Batch Error Correction through Suppression Correction and Dual MSTUS Normalization** | Analytical Chemistry (ACS) | 2025 | [📄 View](https://pubs.acs.org/doi/10.1021/acs.analchem.5c05210) |
-| **[Detection of Traffic Signs by CNN Using Sequential API]** | International Journal (Conference Proceedings) | Janmejoy Kar | 2021 | [📄 View](https://ijcrt.org/viewfull.php?&p_id=IJCRT2106609) |
+| **[Detection of Traffic Signs by CNN Using Sequential API]** | International Journal of Creative Thoughts | 2021 | [📄 View](https://ijcrt.org/viewfull.php?&p_id=IJCRT2106609) |
 
 &nbsp;
 
