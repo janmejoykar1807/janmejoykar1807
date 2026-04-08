@@ -202,13 +202,17 @@ Power BI · Tableau · DAX · QlikView
 
 <img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-certs.svg" width="100%" />
 
-| Certification | Issuer | Year | Status |
-|:---|:---|:---:|:---:|
-| **DP-600 Fabric Analytics Engineer Associate** | Microsoft | 2024 (Active) | Active |
-| **DP-100 Azure Data Scientist Associate** | Microsoft | 2024 (Active) | Active |
-| **PL-300 Power BI Data Analyst Associate** | Microsoft | 2025 (Active) | Active |
-| **DP-203 Azure Data Engineer Associate** | Microsoft | 2024 | In-progress |
-| **SAP S/4HANA** | SAP | 2024 | In-progress |
+| Certification | Issuer | Year |
+|:---|:---|:---:|
+| **Power BI Data Analyst Associate (PL-300)** | Microsoft | 2025 (Active) |
+| **Azure Data Scientist Associate (DP-100)** | Microsoft | 2024 (Active) |
+| **Fabric Analytics Engineer Associate (DP-600)** | Microsoft | 2024 (Active) |
+| **Azure Fundamentals (AZ-900)** | Microsoft | 2023 |
+| **Microsoft Azure** | Microsoft | 2022 |
+| **Python Level 1** | Cambridge Certification Authority | 2022 |
+| **AWS Cloud Practitioner** | Amazon Web Services | 2020 |
+| **Architecting on AWS (Associate)** | Amazon Web Services | 2020 |
+| **Business Analytics Graduate** | IBM | 2021 |
 
 &nbsp;
 
