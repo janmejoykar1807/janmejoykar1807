@@ -13,7 +13,7 @@
 
 ## About
 
-Data Scientist at **Group O** (2+ years) turning messy operational data into decisions people act on. I build forecasting models, anomaly detection systems, and analytics pipelines across **Microsoft Fabric**, **AWS**, and **Databricks**. Published researcher. 7x certified across Microsoft & AWS. Previously organized and spoke at UNT's Business Analytics Day on *"Empowering Data-Driven Decisions with Microsoft Fabric."*
+Data Scientist at **Group O** (2+ years) turning messy operational data into decisions people act on. I build forecasting models, anomaly detection systems, and analytics pipelines across **Microsoft Fabric**, **AWS**, and **Databricks**. Previously organized and spoke at UNT's Business Analytics Day on *"Empowering Data-Driven Decisions with Microsoft Fabric."*
 
 &nbsp;
 
@@ -188,15 +188,15 @@ Power BI · Tableau · DAX · QlikView
 
 | Certification | Issuer | Year |
 |:---|:---|:---:|
-| Power BI Data Analyst Associate (PL-300) | Microsoft | 2025 |
-| Azure Data Scientist Associate (DP-100) | Microsoft | 2024 |
-| Fabric Analytics Engineer Associate (DP-600) | Microsoft | 2024 |
-| Azure Fundamentals (AZ-900) | Microsoft | 2023 |
-| Microsoft Azure | Microsoft | 2022 |
-| Python Level 1 | Cambridge Certification Authority | 2022 |
-| AWS Cloud Practitioner | Amazon Web Services | 2020 |
-| Architecting on AWS (Associate) | Amazon Web Services | 2020 |
-| Business Analytics Graduate | IBM | 2021 |
+| **Power BI Data Analyst Associate (PL-300)** | Microsoft | 2025 (Active) |
+| **Azure Data Scientist Associate (DP-100)** | Microsoft | 2024 (Active) |
+| **Fabric Analytics Engineer Associate (DP-600)** | Microsoft | 2024 (Active) |
+| **Azure Fundamentals (AZ-900)** | Microsoft | 2023 (In-progress) |
+| **Microsoft Azure** | Microsoft | 2022 |
+| **Python Level 1** | Cambridge Certification Authority | 2022 |
+| **AWS Cloud Practitioner** | Amazon Web Services | 2020 |
+| **Architecting on AWS (Associate)** | Amazon Web Services | 2020 |
+| **Business Analytics Graduate** | IBM | 2021 |
 
 &nbsp;
 
