@@ -212,6 +212,14 @@ Power BI · Tableau · DAX · QlikView
 
 &nbsp;
 
+<img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-publications.svg" width="100%" />
+
+| Title | Journal | Year | URL |
+|:---|:---|:---|:---|
+| *Detection of Traffic Signs by CNN Using Sequential API* | International Journal of Computer Applications | 2021 | [Link](https://www.ijcaonline.org/archives/volume182/number14/32091-2021910263) |
+
+&nbsp;
+
 <img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-github.svg" width="100%" />
 
 <div align="center">
