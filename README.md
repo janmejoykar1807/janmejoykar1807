@@ -191,7 +191,7 @@ Power BI · Tableau · DAX · QlikView
 | **Power BI Data Analyst Associate (PL-300)** | Microsoft | 2025 (Active) |
 | **Azure Data Scientist Associate (DP-100)** | Microsoft | 2024 (Active) |
 | **Fabric Analytics Engineer Associate (DP-600)** | Microsoft | 2024 (Active) |
-| **Azure Fundamentals (AZ-900)** | Microsoft | 2023 (In-progress) |
+| **Azure Fundamentals (AZ-900)** | Microsoft | 2023 (Active) |
 | **Microsoft Azure** | Microsoft | 2022 |
 | **Python Level 1** | Cambridge Certification Authority | 2022 |
 | **AWS Cloud Practitioner** | Amazon Web Services | 2020 |
