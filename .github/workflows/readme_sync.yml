@@ -24,95 +24,10 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Read profile.json and update README
+      - name: Run README update script
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_REPOSITORY: ${{ github.repository }}
-        run: |
-          node << 'EOF'
-          const fs = require('fs');
-          const https = require('https');
-
-          // ── Read inputs ────────────────────────────────────────────
-          const profile = JSON.parse(fs.readFileSync('profile.json', 'utf-8'));
-          const currentReadme = fs.existsSync('README.md')
-            ? fs.readFileSync('README.md', 'utf-8')
-            : '';
-
-          // ── Build prompt ───────────────────────────────────────────
-          const prompt = `You are a GitHub README updater for a developer profile.
-
-Here is the current README:
-<current_readme>
-${currentReadme}
-</current_readme>
-
-Here is the updated profile data from LinkedIn:
-<profile_data>
-${JSON.stringify(profile, null, 2)}
-</profile_data>
-
-Instructions:
-- Preserve ALL existing visual elements: animated SVG banners, shields.io badges, career journey visualizations, and overall layout
-- Update ONLY these sections with the new data: Publications, Certifications, Projects, Experience, Skills, Bio/About
-- If a section doesn't exist yet in the README, add it in an appropriate place
-- Keep the same formatting style as the existing README
-- For publications, include title, journal, year, and link
-- For certifications, distinguish active vs in-progress
-- Return ONLY the complete updated README markdown — no explanation, no code fences`;
-
-          // ── Call GitHub Models API (free, no key needed) ───────────
-          const requestBody = JSON.stringify({
-            model: 'gpt-4o-mini',
-            messages: [
-              {
-                role: 'system',
-                content: 'You are a GitHub README updater. Return only valid markdown, no explanation.'
-              },
-              {
-                role: 'user',
-                content: prompt
-              }
-            ],
-            max_tokens: 4000,
-            temperature: 0.3
-          });
-
-          const options = {
-            hostname: 'models.inference.ai.azure.com',
-            path: '/chat/completions',
-            method: 'POST',
-            headers: {
-              'Content-Type': 'application/json',
-              'Authorization': `Bearer ${process.env.GITHUB_TOKEN}`,
-              'Content-Length': Buffer.byteLength(requestBody)
-            }
-          };
-
-          const newReadme = await new Promise((resolve, reject) => {
-            const req = https.request(options, res => {
-              let data = '';
-              res.on('data', chunk => data += chunk);
-              res.on('end', () => {
-                try {
-                  const parsed = JSON.parse(data);
-                  if (parsed.error) reject(new Error(parsed.error.message));
-                  else resolve(parsed.choices[0].message.content.trim());
-                } catch (e) {
-                  reject(new Error(`Parse error: ${e.message}\nResponse: ${data.slice(0, 200)}`));
-                }
-              });
-            });
-            req.on('error', reject);
-            req.write(requestBody);
-            req.end();
-          });
-
-          // ── Write updated README ───────────────────────────────────
-          fs.writeFileSync('README.md', newReadme, 'utf-8');
-          console.log(`README updated — ${newReadme.length} chars`);
-          console.log(`Profile: ${profile.basics?.name} | Certs: ${profile.certifications?.length} | Pubs: ${profile.publications?.length}`);
-          EOF
+        run: node update_readme.js
 
       - name: Commit updated README
         run: |
