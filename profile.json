@@ -31,34 +31,58 @@
   ],
   "certifications": [
     {
-      "name": "DP-600 Fabric Analytics Engineer Associate",
+      "name": "Power BI Data Analyst Associate (PL-300)",
       "issuer": "Microsoft",
-      "date": "",
+      "date": "2025",
       "status": "active"
     },
     {
-      "name": "DP-100 Azure Data Scientist Associate",
+      "name": "Azure Data Scientist Associate (DP-100)",
       "issuer": "Microsoft",
-      "date": "",
+      "date": "2024",
       "status": "active"
     },
     {
-      "name": "PL-300 Power BI Data Analyst Associate",
+      "name": "Fabric Analytics Engineer Associate (DP-600)",
       "issuer": "Microsoft",
-      "date": "",
+      "date": "2024",
       "status": "active"
     },
     {
-      "name": "DP-203 Azure Data Engineer Associate",
+      "name": "Azure Fundamentals (AZ-900)",
       "issuer": "Microsoft",
-      "date": "",
-      "status": "in-progress"
+      "date": "2023",
+      "status": "active"
     },
     {
-      "name": "SAP S/4HANA",
-      "issuer": "SAP",
-      "date": "",
-      "status": "in-progress"
+      "name": "Microsoft Azure",
+      "issuer": "Microsoft",
+      "date": "2022",
+      "status": "active"
+    },
+    {
+      "name": "Python Level 1",
+      "issuer": "Cambridge Certification Authority",
+      "date": "2022",
+      "status": "active"
+    },
+    {
+      "name": "AWS Cloud Practitioner",
+      "issuer": "Amazon Web Services",
+      "date": "2020",
+      "status": "active"
+    },
+    {
+      "name": "Architecting on AWS (Associate)",
+      "issuer": "Amazon Web Services",
+      "date": "2020",
+      "status": "active"
+    },
+    {
+      "name": "Business Analytics Graduate",
+      "issuer": "IBM",
+      "date": "2021",
+      "status": "active"
     }
   ],
   "projects": [
