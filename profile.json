@@ -1,24 +1,129 @@
 {
   "basics": {
-    "name": "",
-    "title": "",
-    "company": "",
-    "location": "",
-    "bio": "",
-    "linkedinUrl": "https://www.linkedin.com/in/janmejoy-kar-849756196/",
-    "githubUrl": "",
+    "name": "Janmejoy Kar",
+    "title": "Data Scientist",
+    "company": "Group O",
+    "location": "Roanoke, TX",
+    "bio": "Data Scientist specializing in Microsoft Fabric, PySpark, Power BI, and D365 F&O. MS Business Analytics, University of North Texas.",
+    "linkedinUrl": "https://linkedin.com/in/janmejoykar",
+    "githubUrl": "https://github.com/janmejoykar1807",
     "email": ""
   },
-  "publications": [],
-  "certifications": [],
-  "projects": [],
-  "experience": [],
-  "education": [],
-  "skills": [],
-  "languages": [],
+  "publications": [
+    {
+      "title": "Achieving Effective Batch-to-Batch Error Correction through Suppression Correction and Dual MSTUS Normalization",
+      "journal": "Analytical Chemistry (ACS)",
+      "year": "2025",
+      "authors": "Debasish Ghosh, Janmejoy Kar, Felice A. de Jong, Chris Beecher, Vladimir Shulaev",
+      "url": "https://pubs.acs.org/doi/10.1021/acs.analchem.5c05210",
+      "contribution": "Technical contributor \u2014 R algorithms, data visualizations, analytical workflows"
+    },
+    {
+      "title": "Detection of Traffic Signs by Convolutional Neural Network Using Sequential API",
+      "journal": "International Journal of Creative Research Thoughts (IJCRT)",
+      "year": "2021",
+      "authors": "Janmejoy Kar, Manish Kumar, Dipali Dhake, Gayatri Palde, Umakant Mandawkar",
+      "url": "https://ijcrt.org/viewfull.php?&p_id=IJCRT2106609",
+      "contribution": "Primary author",
+      "doi": "http://doi.one/10.1729/Journal.28107",
+      "volume": "Volume 9, Issue 6, June 2021, pp. f177-f181"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "DP-600 Fabric Analytics Engineer Associate",
+      "issuer": "Microsoft",
+      "date": "",
+      "status": "active"
+    },
+    {
+      "name": "DP-100 Azure Data Scientist Associate",
+      "issuer": "Microsoft",
+      "date": "",
+      "status": "active"
+    },
+    {
+      "name": "PL-300 Power BI Data Analyst Associate",
+      "issuer": "Microsoft",
+      "date": "",
+      "status": "active"
+    },
+    {
+      "name": "DP-203 Azure Data Engineer Associate",
+      "issuer": "Microsoft",
+      "date": "",
+      "status": "in-progress"
+    },
+    {
+      "name": "SAP S/4HANA",
+      "issuer": "SAP",
+      "date": "",
+      "status": "in-progress"
+    }
+  ],
+  "projects": [
+    {
+      "name": "AI-powered ATS Resume Optimizer",
+      "tech": "Python, FLAN-T5, FastAPI, React, n8n",
+      "description": "ML pipeline with fine-tuned FLAN-T5 for ATS resume optimization, including a React web app and n8n workflow automation.",
+      "url": "https://github.com/janmejoykar1807/resume-ats-finetuner",
+      "visibility": "private"
+    },
+    {
+      "name": "Control Tower Dashboard",
+      "tech": "Power BI, DAX, Microsoft Fabric, React, Recharts",
+      "description": "Executive KPI dashboard covering Sales, Purchases, and Inventory Management with Days of Supply, warehouse utilization, and replenishment pipelines.",
+      "url": "",
+      "visibility": "private"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Data Scientist",
+      "company": "Group O",
+      "duration": "2024 \u2013 Present",
+      "location": "Roanoke, TX",
+      "description": "Building data pipelines and analytics solutions on Microsoft Fabric.",
+      "tech": "Microsoft Fabric, PySpark, Power BI, D365 F&O, Azure"
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.S. Business Analytics",
+      "school": "University of North Texas",
+      "years": "2022 \u2013 2024"
+    }
+  ],
+  "skills": [
+    "Python",
+    "R",
+    "PySpark",
+    "SQL",
+    "DAX",
+    "Microsoft Fabric",
+    "Power BI",
+    "Azure",
+    "D365 F&O",
+    "Machine Learning",
+    "Data Visualization",
+    "ETL/ELT",
+    "React",
+    "FastAPI",
+    "n8n"
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "Native"
+    }
+  ],
   "meta": {
-    "extractedAt": "2026-04-08T20:20:32.571Z",
-    "sourceUrl": "",
+    "extractedAt": "2026-04-08T00:00:00.000Z",
+    "sourceUrl": "https://linkedin.com/in/janmejoykar",
     "version": "1.0"
   }
 }
