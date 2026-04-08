@@ -100,7 +100,7 @@ Power BI · Tableau · DAX · QlikView
 <img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-work.svg" width="100%" />
 
 **Data Scientist** — Group O *(2024 – Present, Roanoke, TX)*
-<br/>Building data pipelines and analytics solutions on Microsoft Fabric.
+<br/>Building data pipelines and analytics solutions on Microsoft Fabric. Technologies: Microsoft Fabric, PySpark, Power BI, D365 F&O, Azure.
 
 **Graduate Teaching Assistant** — University of North Texas *(Aug–Dec 2023)*
 <br/>DSCI 5240: Data Mining & Machine Learning. Grading, lectures, and student mentorship.
@@ -202,17 +202,17 @@ Power BI · Tableau · DAX · QlikView
 
 <img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-certs.svg" width="100%" />
 
-| Certification | Issuer | Year |
-|:---|:---|:---:|
-| **Power BI Data Analyst Associate (PL-300)** | Microsoft | 2025 (Active) |
-| **Azure Data Scientist Associate (DP-100)** | Microsoft | 2024 (Active) |
-| **Fabric Analytics Engineer Associate (DP-600)** | Microsoft | 2024 (Active) |
-| **Azure Fundamentals (AZ-900)** | Microsoft | 2023 |
-| **Microsoft Azure** | Microsoft | 2022 |
-| **Python Level 1** | Cambridge Certification Authority | 2022 |
-| **AWS Cloud Practitioner** | Amazon Web Services | 2020 |
-| **Architecting on AWS (Associate)** | Amazon Web Services | 2020 |
-| **Business Analytics Graduate** | IBM | 2021 |
+| Certification | Issuer | Year | Status |
+|:---|:---|:---:|:---:|
+| **Power BI Data Analyst Associate (PL-300)** | Microsoft | 2025 | Active |
+| **Azure Data Scientist Associate (DP-100)** | Microsoft | 2024 | Active |
+| **Fabric Analytics Engineer Associate (DP-600)** | Microsoft | 2024 | Active |
+| **Azure Fundamentals (AZ-900)** | Microsoft | 2023 | Active |
+| **Microsoft Azure** | Microsoft | 2022 | Active |
+| **Python Level 1** | Cambridge Certification Authority | 2022 | Active |
+| **AWS Cloud Practitioner** | Amazon Web Services | 2020 | Active |
+| **Architecting on AWS (Associate)** | Amazon Web Services | 2020 | Active |
+| **Business Analytics Graduate** | IBM | 2021 | Active |
 
 &nbsp;
 
