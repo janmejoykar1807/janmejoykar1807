@@ -191,7 +191,7 @@ Power BI · Tableau · DAX · QlikView
 | **Power BI Data Analyst Associate (PL-300)** | Microsoft | 2025 (Active) |
 | **Azure Data Scientist Associate (DP-100)** | Microsoft | 2024 (Active) |
 | **Fabric Analytics Engineer Associate (DP-600)** | Microsoft | 2024 (Active) |
-| **Azure Fundamentals (AZ-900)** | Microsoft | 2023 (Active) |
+| **Azure Fundamentals (AZ-900)** | Microsoft | 2023 (In-progress) |
 | **Microsoft Azure** | Microsoft | 2022 |
 | **Python Level 1** | Cambridge Certification Authority | 2022 |
 | **AWS Cloud Practitioner** | Amazon Web Services | 2020 |
@@ -204,7 +204,10 @@ Power BI · Tableau · DAX · QlikView
 
 | Title | Journal | Authors | Year | Link |
 |:---|:---|:---|:---:|:---:|
-| [Achieving Effective Batch-to-Batch Error Correction through Suppression Correction and Dual MSTUS Normalization] | Analytical Chemistry (ACS) | Debasish Ghosh, Janmejoy Kar, Felice A. de Jong, Chris Beecher, Vladimir Shulaev | 2025 | **[Link](https://pubs.acs.org/doi/10.1021/acs.analchem.5c05210)** |
+| **Achieving Effective Batch-to-Batch Error Correction through Suppression Correction and Dual MSTUS Normalization** | Analytical Chemistry (ACS) | Debasish Ghosh, Janmejoy Kar, Felice A. de Jong, Chris Beecher, Vladimir Shulaev | 2025 | [📄 View](https://pubs.acs.org/doi/10.1021/acs.analchem.5c05210) |
+| **Detection of Traffic Signs by CNN Using Sequential API** | International Journal (Conference Proceedings) | Janmejoy Kar | 2021 | — |
+
+&nbsp;
 
 <img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-community.svg" width="100%" />
 
