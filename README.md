@@ -13,7 +13,7 @@
 
 ## About
 
-Data Scientist at **Group O** (2+ years) turning messy operational data into decisions people act on. I build forecasting models, anomaly detection systems, and analytics pipelines across **Microsoft Fabric**, **AWS**, and **Databricks**. Previously organized and spoke at UNT's Business Analytics Day on *"Empowering Data-Driven Decisions with Microsoft Fabric."*
+Data Scientist specializing in Microsoft Fabric, PySpark, Power BI, and D365 F&O. MS Business Analytics, University of North Texas. I build forecasting models, anomaly detection systems, and analytics pipelines across **Microsoft Fabric**, **AWS**, and **Databricks**. Previously organized and spoke at UNT's Business Analytics Day on *"Empowering Data-Driven Decisions with Microsoft Fabric."*
 
 &nbsp;
 
@@ -65,7 +65,7 @@ Data Scientist at **Group O** (2+ years) turning messy operational data into dec
 
 **Data & ML**
 <br/><br/>
-Python · R · PySpark · Scala · SQL
+Python · R · PySpark · SQL
 <br/>Scikit-Learn · TensorFlow · OpenCV
 <br/>A/B Testing · Bayesian Inference
 <br/>NLP · Forecasting · Anomaly Detection
@@ -99,8 +99,8 @@ Power BI · Tableau · DAX · QlikView
 
 <img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-work.svg" width="100%" />
 
-**Data Scientist** — Group O *(Jan 2024 → Present)*
-<br/>Architecting end-to-end analytics across Microsoft Fabric, Databricks & AWS. Built forecasting models (+30% accuracy), A/B experimentation frameworks ($5M+ impact), anomaly detection (−20% fulfillment gaps), and optimized pipelines (40% faster refresh). Unified data from D365 ERP across finance, sales & inventory.
+**Data Scientist** — Group O *(2024 – Present, Roanoke, TX)*
+<br/>Building data pipelines and analytics solutions on Microsoft Fabric.
 
 **Graduate Teaching Assistant** — University of North Texas *(Aug–Dec 2023)*
 <br/>DSCI 5240: Data Mining & Machine Learning. Grading, lectures, and student mentorship.
@@ -168,6 +168,22 @@ Power BI · Tableau · DAX · QlikView
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+**[🤖 AI-powered ATS Resume Optimizer](https://github.com/janmejoykar1807/resume-ats-finetuner)**
+<br/>ML pipeline with fine-tuned FLAN-T5 for ATS resume optimization, including a React web app and n8n workflow automation.
+<br/><sub>Python · FLAN-T5 · FastAPI · React · n8n</sub>
+
+</td>
+<td width="50%">
+
+**[📊 Control Tower Dashboard](#)**
+<br/>Executive KPI dashboard covering Sales, Purchases, and Inventory Management with Days of Supply, warehouse utilization, and replenishment pipelines.
+<br/><sub>Power BI · DAX · Microsoft Fabric · React · Recharts</sub>
+
+</td>
+</tr>
 </table>
 </div>
 
@@ -186,24 +202,20 @@ Power BI · Tableau · DAX · QlikView
 
 <img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-certs.svg" width="100%" />
 
-| Certification | Issuer | Year |
-|:---|:---|:---:|
-| **Power BI Data Analyst Associate (PL-300)** | Microsoft | 2025 (Active) |
-| **Azure Data Scientist Associate (DP-100)** | Microsoft | 2024 (Active) |
-| **Fabric Analytics Engineer Associate (DP-600)** | Microsoft | 2024 (Active) |
-| **Azure Fundamentals (AZ-900)** | Microsoft | 2023 |
-| **Microsoft Azure** | Microsoft | 2022 |
-| **Python Level 1** | Cambridge Certification Authority | 2022 |
-| **AWS Cloud Practitioner** | Amazon Web Services | 2020 |
-| **Architecting on AWS (Associate)** | Amazon Web Services | 2020 |
-| **Business Analytics Graduate** | IBM | 2021 |
+| Certification | Issuer | Year | Status |
+|:---|:---|:---:|:---:|
+| **DP-600 Fabric Analytics Engineer Associate** | Microsoft | 2024 (Active) | Active |
+| **DP-100 Azure Data Scientist Associate** | Microsoft | 2024 (Active) | Active |
+| **PL-300 Power BI Data Analyst Associate** | Microsoft | 2025 (Active) | Active |
+| **DP-203 Azure Data Engineer Associate** | Microsoft | 2024 | In-progress |
+| **SAP S/4HANA** | SAP | 2024 | In-progress |
 
 &nbsp;
 
 <img src="https://github.com/janmejoykar1807/janmejoykar1807/blob/main/assets/section-publications.svg" width="100%" />
 
 | Title | Journal | Authors | Year | Link |
-|:---|:---|:---|:---:|:---:|
+|:---|:---|:---|:---:|:---|
 | **Achieving Effective Batch-to-Batch Error Correction through Suppression Correction and Dual MSTUS Normalization** | Analytical Chemistry (ACS) | Debasish Ghosh, Janmejoy Kar, Felice A. de Jong, Chris Beecher, Vladimir Shulaev | 2025 | [📄 View](https://pubs.acs.org/doi/10.1021/acs.analchem.5c05210) |
 | **Detection of Traffic Signs by Convolutional Neural Network Using Sequential API** | International Journal of Creative Research Thoughts (IJCRT) | Janmejoy Kar, Manish Kumar, Dipali Dhake, Gayatri Palde, Umakant Mandawkar | 2021 | [📄 View](https://ijcrt.org/viewfull.php?&p_id=IJCRT2106609) |
 
